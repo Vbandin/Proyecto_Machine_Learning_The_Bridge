@@ -6,7 +6,7 @@ Si quieres saber más sobre el proyecto o quieres charlar sobre Data Science apl
 ## El proyecto:
 
 ###  Modelo predictivo de Rating de Apps en Play Store
-![image](https://github.com/Vbandin/EDA_Victor_Bandin/imgs/Remittances_Received_1992_2008_Low_Income_Economies.png?raw=true)
+![image](https://github.com/Vbandin/Proyecto_Machine_Learning_The_Bridge/blob/main/imgs/dataset_info.png)
 * Datos de Play Store descargados de Kaggle. 
 * **Keywords**(App Store, ASO, Predictive Algorithm, Machine Learning, Supervised Learning, Feature Engineering, Data Science)
-![image](https://github.com/Vbandin/EDA_Victor_Bandin/imgs/hist_Deposit_Money_Bank_Assets_to_Central_Banks.png?raw=true)
+![image](https://github.com/Vbandin/Proyecto_Machine_Learning_The_Bridge/blob/main/imgs/feature_importance_final_model.png)
